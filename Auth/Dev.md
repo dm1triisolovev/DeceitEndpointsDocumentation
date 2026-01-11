@@ -9,7 +9,7 @@ Auth Required: No
 `token`: Jwt token | String \
 `version`: Game version | String \
 `name` steam username | String \
-`properties`: unknown | Array
+`properties`: unknown | Object
 
 ## Example Response: (Success)
 ```json
